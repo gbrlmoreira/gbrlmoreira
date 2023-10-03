@@ -23,7 +23,7 @@ Bem-vindo ao meu repositório GitHub! Sou um estudante de Análise e Desenvolvim
 
 ## Contato
 
-- LinkedIn: [Link] (https://www.linkedin.com/in/gabrielmoreiraa/)
+- LinkedIn: https://www.linkedin.com/in/gabrielmoreiraa/
 - Email: gbrlmoreira@outlook.com
 
 ## Contribuições
